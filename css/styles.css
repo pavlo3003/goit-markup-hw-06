@@ -804,6 +804,9 @@ footer {
   color: var(--primary-text-color-theme-light);
 }
 .modal-form-field {
+  margin-bottom: 10px;
+}
+.modal-form-textarea {
   margin-bottom: 20px;
 }
 .modal-form-input-wraper {
